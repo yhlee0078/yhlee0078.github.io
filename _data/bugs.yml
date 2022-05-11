@@ -1,6 +1,9 @@
 - cve: IMMUNEFI-2021-4114
   descr: Theft of asset in Dinosaur eggs (NFT system)
 
+- cve: CVE-2021-40102
+  descr: Remote Code Execution in Concrete CMS
+
 - cve: HACKERONE-2018-484463
   descr: Denial of Service in EOS blockchain node
 

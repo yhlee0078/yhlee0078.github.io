@@ -1,22 +1,20 @@
-- title: "Evaluating the Robustness of Trigger Set-Based Watermarks Embedded in Deep Neural Networks"
-  authors: <strong>Suyoung Lee</strong>, Wonho Song, Suman Jana, Meeyoung Cha, and Sooel Son.
-  venue: arXiv:2106.10147
-  year: 2021
-  link: https://arxiv.org/abs/2106.10147
-
-- title: "Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer"
-  authors: <strong>Suyoung Lee</strong>, HyungSeok Han, Sang Kil Cha, and Sooel Son.
+- title: "FUGIO: Automatic Exploit Generation for PHP Object Injection Vulnerabilities"
+  authors: Sunnyeo Park, <strong>Daejun Kim (co-leading author)</strong>, Suman Jana, and Sooel Son.
   venue: In <em>proceedings of the USENIX Security Symposium</em>
-  year: 2020
-  link: /papers/lee-sec20.pdf
-  bib: /bibtex/lee-sec20.bib
-  code: https://github.com/WSP-LAB/Montage
-  data: https://github.com/WSP-LAB/js-test-suite
+  year: 2022
+  link: /papers/park-fugio-sec22.pdf
+  bib: /bibtex/park-sec22-fugio.bib
 
-- title: "FUSE: Finding File Upload Bugs via Penetration Testing"
-  authors: Taekjin Lee, Seongil Wi, <strong>Suyoung Lee</strong>, and Sooel Son.
-  venue: In <em>proceedings of the Network and Distributed System Security Symposium</em>
-  year: 2020
-  link: /papers/lee-ndss20.pdf
-  bib: /bibtex/lee-ndss20.bib
-  code: https://github.com/WSP-LAB/FUSE
+- title: "AdCube: WebVR Ad Fraud and Practical Confinement of Third-Party Ads"
+  authors: Hyunjoo Lee, Jiyeon Lee (co-leading author), <strong>Daejun Kim</strong>, Suman Jana, Insik Shin, and Sooel Son.
+  venue: In <em>proceedings of the USENIX Security Symposium</em>
+  year: 2021
+  link: /papers/lee-adcube-sec21.pdf
+  bib: /bibtex/lee-sec21-adcube.bib
+
+- title: "Who Spent My EOS? On the (In)Security of Resource Management of EOS.IO"
+  authors: Sangsup Lee, <strong>Daejun Kim (co-leading author)</strong>, Dongkwan Kim, Sooel Son, and Yongdae Kim.
+  venue: In <em>Proceedings of the USENIX Security Symposium WorkShop on Offensive Technologies</em> (WOOT)
+  year: 2019
+  link: /papers/lee-eos-woot19.pdf
+  bib: /bibtex/lee-woot19.bib

@@ -1,0 +1,22 @@
+<div class="user-details">
+  <h1> Work Experience </h1>
+</div>
+
+<div class="row">
+  <div class="col">
+    <table>
+      <tbody>
+      {% for career in site.data.work_experience %}
+        <tr>
+          <td>
+            <strong>{{career.date}}</strong>
+          </td>
+          <td>
+            {{career.company}} ({{career.position}})
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>

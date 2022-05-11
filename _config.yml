@@ -1,7 +1,7 @@
 # Site settings
 title: Daejun Kim
 description: Daejun Kim / 김대준
-url: https://reset-kim.github.io/
+url: https://reset-kim.github.io
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 
 timezone:          Asia/Seoul
@@ -24,7 +24,10 @@ sass:
 username: Daejun Kim
 user_title: Security Researcher
 user_description: >
-  I am a security researcher who is interested in the security of the Internet.
+  I am a security researcher who is interested in cyber security.
+  My primary research interests lie in finding, analyzing, and patching software vulnerabilities.
+  In particular, I am interested in these areas: Blockchain, Web, and System security.
+  Also, I've been working mainly on security audits so far, and I've found hundreds of vulnerabilities during the project.
 email: reset@theori.io
 # twitter: lorem_ipsum
 github: Reset-Kim

@@ -1,18 +1,18 @@
 <div class="user-details">
-  <h1> 🔎 Extra Curricular </h1>
+  <h1> 💖 Research Interest </h1>
 </div>
 
 <div class="row">
   <div class="col">
     <table>
       <tbody>
-      {% for ec in site.data.extra_curricular %}
+      {% for ri in site.data.research_interest %}
         <tr>
-          <td>
-            <strong>{{ec.year}}</strong>
+          <td class="m-m">
+            <strong>{{ri.major}}</strong>
           </td>
           <td>
-            {{ec.descr}}
+            {{ri.minor}}
           </td>
         </tr>
       {% endfor %}

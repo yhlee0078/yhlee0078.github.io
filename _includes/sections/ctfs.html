@@ -1,18 +1,18 @@
 <div class="user-details">
-  <h1> 🔎 Extra Curricular </h1>
+  <h1> 🏁 CTFs </h1>
 </div>
 
 <div class="row">
   <div class="col">
     <table>
       <tbody>
-      {% for ec in site.data.extra_curricular %}
+      {% for ctf in site.data.ctfs %}
         <tr>
           <td>
-            <strong>{{ec.year}}</strong>
+            <strong>{{ctf.year}}</strong>
           </td>
           <td>
-            {{ec.descr}}
+            {{ctf.descr}}
           </td>
         </tr>
       {% endfor %}

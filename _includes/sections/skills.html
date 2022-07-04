@@ -1,18 +1,18 @@
 <div class="user-details">
-  <h1> 🔎 Extra Curricular </h1>
+  <h1> 👨‍💻 Skills </h1>
 </div>
 
 <div class="row">
   <div class="col">
     <table>
       <tbody>
-      {% for ec in site.data.extra_curricular %}
+      {% for skill in site.data.skills %}
         <tr>
           <td>
-            <strong>{{ec.year}}</strong>
+            <strong>{{skill.major}}</strong>
           </td>
           <td>
-            {{ec.descr}}
+            {{skill.minor}}
           </td>
         </tr>
       {% endfor %}

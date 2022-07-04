@@ -1,7 +1,7 @@
 # Site settings
-title: Daejun Kim
-description: Daejun Kim / 김대준
-url: https://reset-kim.github.io
+title: Yonghwa Lee
+description: Yonghwa Lee / 이용화
+url: https://yhlee0078.github.io
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 
 timezone:          Asia/Seoul
@@ -21,15 +21,15 @@ sass:
   sass_dir: _sass
 
 # User settings
-username: Daejun Kim
+username: Yonghwa Lee
 user_title: Security Researcher
 user_description: >
-  I am a security researcher who is interested in offensive cybersecurity.
-  My primary research interests lie in finding, analyzing, and patching software vulnerabilities.
-  In particular, I am interested in these areas: blockchain, web, and system security.
-  Also, I've found hundreds of high-impact vulnerabilities while conducting security auditing projects so far.
-email: reset@theori.io
+  I am a M.S. student <a href="https://www.syssec.kr/" target="_blank">
+  @KAIST SysSec Lab</a>. My research interest is to find, analyze, and exploit software and hardware vulnerabilities.
+  Especially, I'm putting my effort into offensive IoT, Embedded, and CPS(Cyber-Physical System) security.    
+  And Since 2018, I've been participating in major CTFs as a member of <a href="https://www.facebook.com/cistcykor" target="_blank"> @CyKor</a>.
+email: yhlee0078@kaist.ac.kr
 # twitter: lorem_ipsum
-github: Reset-Kim
-facebook: reset.test
+github: yhlee0078
+facebook: yonghwa.lee.188
 # gplus_username:  lorem_ipsum
